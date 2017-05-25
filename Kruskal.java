@@ -62,7 +62,7 @@ public class Kruskal
     }
 
     if(sum>=999)
-     System.out.println("\nSpanning tree doesnt exit");
+     System.out.println("\nSpanning tree doesnt exist");
     else
      { 
        System.out.println("\nThe edges selected for MST are:");
